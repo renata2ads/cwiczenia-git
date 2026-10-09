@@ -1,3 +1,5 @@
 to jest początkowa zawartość pliku
 
 to dodałam w kolejnym commicie
+
+ta linia powstala na main
