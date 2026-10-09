@@ -1,1 +1,3 @@
 to jest początkowa zawartość pliku
+
+to dodałam w kolejnym commicie
